@@ -1,0 +1,4 @@
+1.SVN 报错 sqlite[S11]: database disk image is malformed:
+http://blog.csdn.net/yeshencat/article/details/73741123
+2.svn 清理失败 (cleanup 失败) 的解决方法:
+http://blog.csdn.net/keenweiwei/article/details/34090553
